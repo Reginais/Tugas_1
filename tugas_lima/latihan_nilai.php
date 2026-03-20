@@ -8,7 +8,7 @@
     </head>
 
     <body>
-        <h2>Form Input Nilai Mahasiswa</h2>
+        <h1>Nilai Mahasiswa</h1>
         
         <form method="post" action="">
             Nama: <input type="text" name="nama"><br><br>
